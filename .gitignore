@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+dist
+
+output/*
+!output/.gitkeep
+
+client_authorization_code.json
+client_secret.json
+client_token.json

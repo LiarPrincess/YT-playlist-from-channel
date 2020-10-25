@@ -1,0 +1,21 @@
+{
+  "name": "yt-private-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "google-auth-library": "^6.1.2",
+    "googleapis": "^61.0.0"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.22",
+    "@types/node": "^12.6.0",
+    "typescript": "^3.9.7"
+  }
+}
